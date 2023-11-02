@@ -2,21 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://starliquid.github.io/ionskullmain/posts/helloworld/</loc>
+    <loc>https://ionskull.github.io/posts/helloworld/</loc>
     <lastmod>2023-11-01T21:20:33-04:00</lastmod>
   </url><url>
-    <loc>https://starliquid.github.io/ionskullmain/</loc>
+    <loc>https://ionskull.github.io/</loc>
     <lastmod>2023-11-01T21:20:33-04:00</lastmod>
   </url><url>
-    <loc>https://starliquid.github.io/ionskullmain/posts/</loc>
+    <loc>https://ionskull.github.io/posts/</loc>
     <lastmod>2023-11-01T21:20:33-04:00</lastmod>
   </url><url>
-    <loc>https://starliquid.github.io/ionskullmain/tags/</loc>
+    <loc>https://ionskull.github.io/tags/</loc>
     <lastmod>2023-11-01T21:20:33-04:00</lastmod>
   </url><url>
-    <loc>https://starliquid.github.io/ionskullmain/tags/untagged/</loc>
+    <loc>https://ionskull.github.io/tags/untagged/</loc>
     <lastmod>2023-11-01T21:20:33-04:00</lastmod>
   </url><url>
-    <loc>https://starliquid.github.io/ionskullmain/categories/</loc>
+    <loc>https://ionskull.github.io/posts/mypost/</loc>
+    <lastmod>2023-11-01T20:43:49-04:00</lastmod>
+  </url><url>
+    <loc>https://ionskull.github.io/categories/</loc>
   </url>
 </urlset>

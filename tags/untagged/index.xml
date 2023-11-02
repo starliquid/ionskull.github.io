@@ -2,18 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>untagged on Ionskull</title>
-    <link>https://starliquid.github.io/ionskullmain/tags/untagged/</link>
+    <link>https://ionskull.github.io/tags/untagged/</link>
     <description>Recent content in untagged on Ionskull</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 01 Nov 2023 21:20:33 -0400</lastBuildDate><atom:link href="https://starliquid.github.io/ionskullmain/tags/untagged/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Nov 2023 21:20:33 -0400</lastBuildDate><atom:link href="https://ionskull.github.io/tags/untagged/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Helloworld</title>
-      <link>https://starliquid.github.io/ionskullmain/posts/helloworld/</link>
+      <link>https://ionskull.github.io/posts/helloworld/</link>
       <pubDate>Wed, 01 Nov 2023 21:20:33 -0400</pubDate>
       
-      <guid>https://starliquid.github.io/ionskullmain/posts/helloworld/</guid>
+      <guid>https://ionskull.github.io/posts/helloworld/</guid>
       <description>Hello World and Outer Worlds</description>
+    </item>
+    
+    <item>
+      <title>My Post Hello</title>
+      <link>https://ionskull.github.io/posts/mypost/</link>
+      <pubDate>Wed, 01 Nov 2023 20:43:49 -0400</pubDate>
+      
+      <guid>https://ionskull.github.io/posts/mypost/</guid>
+      <description>Welcome to IonSkull</description>
     </item>
     
   </channel>
