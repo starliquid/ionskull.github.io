@@ -1,16 +1,28 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
-  <sitemap>
-    <loc>https://starliquid.github.io/ionskull.github.io/en/sitemap.xml</loc>
-    
-      <lastmod>2023-11-01T22:23:52-04:00</lastmod>
-    
-  </sitemap>
-  
-  <sitemap>
-    <loc>https://starliquid.github.io/ionskull.github.io/fr/sitemap.xml</loc>
-    
-  </sitemap>
-  
-</sitemapindex>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://starliquid.github.io/ionskull.github.io/</loc>
+    <lastmod>2023-11-01T22:23:52-04:00</lastmod>
+  </url><url>
+    <loc>https://starliquid.github.io/ionskull.github.io/posts/pgp/</loc>
+    <lastmod>2023-11-01T22:23:52-04:00</lastmod>
+  </url><url>
+    <loc>https://starliquid.github.io/ionskull.github.io/posts/</loc>
+    <lastmod>2023-11-01T22:23:52-04:00</lastmod>
+  </url><url>
+    <loc>https://starliquid.github.io/ionskull.github.io/tags/</loc>
+    <lastmod>2023-11-01T22:23:52-04:00</lastmod>
+  </url><url>
+    <loc>https://starliquid.github.io/ionskull.github.io/tags/untagged/</loc>
+    <lastmod>2023-11-01T22:23:52-04:00</lastmod>
+  </url><url>
+    <loc>https://starliquid.github.io/ionskull.github.io/posts/helloworld/</loc>
+    <lastmod>2023-11-01T21:20:33-04:00</lastmod>
+  </url><url>
+    <loc>https://starliquid.github.io/ionskull.github.io/posts/mypost/</loc>
+    <lastmod>2023-11-01T20:43:49-04:00</lastmod>
+  </url><url>
+    <loc>https://starliquid.github.io/ionskull.github.io/categories/</loc>
+  </url>
+</urlset>
