@@ -1,8 +1,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Posts on ionSkull</title>
+        <title>Posts on ionSkull.com</title>
         <link>https://starliquid.github.io/ionskull.github.io/posts/</link>
-        <description>Recent content in Posts on ionSkull</description>
+        <description>Recent content in Posts on ionSkull.com</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <lastBuildDate>Thu, 02 Nov 2023 08:56:14 -0400</lastBuildDate>
