@@ -1,19 +1,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Posts on Ionskull</title>
-        <link>https://ionskull.github.io/posts/</link>
+        <link>https://starliquid.github.io/ionskull.github.io/posts/</link>
         <description>Recent content in Posts on Ionskull</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <lastBuildDate>Wed, 01 Nov 2023 21:20:33 -0400</lastBuildDate>
-        <atom:link href="https://ionskull.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://starliquid.github.io/ionskull.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
         
         <item>
             <title>Helloworld</title>
-            <link>https://ionskull.github.io/posts/helloworld/</link>
+            <link>https://starliquid.github.io/ionskull.github.io/posts/helloworld/</link>
             <pubDate>Wed, 01 Nov 2023 21:20:33 -0400</pubDate>
             
-            <guid>https://ionskull.github.io/posts/helloworld/</guid>
+            <guid>https://starliquid.github.io/ionskull.github.io/posts/helloworld/</guid>
             <description>Hello World and Outer Worlds</description>
             <content type="html"><![CDATA[<p>Hello World and Outer Worlds</p>
 ]]></content>
